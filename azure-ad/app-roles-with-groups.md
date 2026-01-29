@@ -17,7 +17,7 @@ will appear inside the **access token** issued by Azure.
 
 After that, you should see something like this:
 
-![App roles created](./images/app-roles-created.png)
+![App roles created](./images/app-roles-create.png)
 
 ---
 
